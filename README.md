@@ -6,7 +6,7 @@ Docker with robotframework base on python
 ```
 git clone https://github.com/engineerball/robotframework-docker
 cd robotframework-docker
-docker build --rm=false =t engineerball/robotframework .
+docker build --rm=false -t engineerball/robotframework .
 ```
 
 ### Run
